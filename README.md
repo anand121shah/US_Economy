@@ -1,8 +1,8 @@
 # US_Economy_Analysis
 
-Welcome to the US_Economy_Analysis repository! This project is dedicated to exploring and understanding the dynamics of the United States economy through an in-depth analysis of key economic indicators. The analysis is conducted using Jupyter Notebooks, which provide a comprehensive and interactive environment for data exploration and visualization.
+Welcome to the US_Economy_Analysis repository! This analysis is dedicated to exploring and understanding the dynamics of the United States economy through key economic indicators. The analysis is conducted using Jupyter Notebooks, which provide a comprehensive and interactive environment for data exploration and visualization.
 
-### Project Overview
+### Overview
 
 This analysis focuses on four critical aspects of the US economy:
 
@@ -13,17 +13,9 @@ This analysis focuses on four critical aspects of the US economy:
 
 ### Data Sources
 
-Our analysis is based on publicly available data from reputable sources. The datasets include:
+The analysis is based on publicly available data from reputable sources. The datasets include:
 
 - **GDP Data:** [Gross Domestic Product](https://fred.stlouisfed.org/series/GDP) from the Federal Reserve Bank of St. Louis (FRED).
 - **US Households Data:** [Total Number of US Households](https://fred.stlouisfed.org/series/TTLHH) also sourced from FRED.
 - **National Debt Data:** [Historical Debt Outstanding](https://fiscaldata.treasury.gov/datasets/historical-debt-outstanding/historical-debt-outstanding) from the U.S. Department of the Treasury.
 - **Population Data:** [Population Total](https://fred.stlouisfed.org/series/B230RC0A052NBEA) from FRED.
-
-### Objectives
-
-The primary goals of this project are to:
-
-- Analyze trends and patterns in the US economy over recent decades.
-- Understand the relationships between different economic indicators.
-- Provide insights into the potential future direction of the US economy.
